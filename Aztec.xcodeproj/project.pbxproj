@@ -575,7 +575,7 @@
 				40A298721FD61E1900AEDF3B /* VideoElementConverter.swift */,
 			);
 			name = Implementations;
-			path = Aztec/Classes/Converters/ElementsToAttributedString/Implementations;
+			path = Sources/Aztec/Classes/Converters/ElementsToAttributedString/Implementations;
 			sourceTree = SOURCE_ROOT;
 		};
 		40D513641FD6185A00A64501 /* ElementsToAttributedString */ = {
@@ -585,7 +585,7 @@
 				40A2986F1FD61B1C00AEDF3B /* Implementations */,
 			);
 			name = ElementsToAttributedString;
-			path = Aztec/Classes/Converters/ElementsToAttributedString;
+			path = Sources/Aztec/Classes/Converters/ElementsToAttributedString;
 			sourceTree = SOURCE_ROOT;
 		};
 		40D513651FD6186800A64501 /* Base */ = {
@@ -596,7 +596,7 @@
 				F1E2323320C18055008DA49F /* FormatterElementConverter.swift */,
 			);
 			name = Base;
-			path = Aztec/Classes/Converters/ElementsToAttributedString/Base;
+			path = Sources/Aztec/Classes/Converters/ElementsToAttributedString/Base;
 			sourceTree = SOURCE_ROOT;
 		};
 		5951CB841D8BC93600E1866F = {
@@ -632,7 +632,8 @@
 				599F25001D8BC9A1002871D6 /* Classes */,
 				5951CB921D8BC93600E1866F /* Info.plist */,
 			);
-			path = Aztec;
+			name = Aztec;
+			path = Sources/Aztec;
 			sourceTree = "<group>";
 		};
 		5951CB9B1D8BC93600E1866F /* AztecTests */ = {
@@ -672,7 +673,7 @@
 				599F252E1D8BC9A1002871D6 /* TextKit */,
 			);
 			name = Classes;
-			path = Aztec/Classes;
+			path = Sources/Aztec/Classes;
 			sourceTree = SOURCE_ROOT;
 		};
 		599F25031D8BC9A1002871D6 /* HTMLToElements */ = {
