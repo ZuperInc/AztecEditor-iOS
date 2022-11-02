@@ -1,6 +1,6 @@
-import Aztec
+
 import XCTest
-@testable import Aztec
+
 
 class HTMLAttachmentRendererTests: XCTestCase {
     

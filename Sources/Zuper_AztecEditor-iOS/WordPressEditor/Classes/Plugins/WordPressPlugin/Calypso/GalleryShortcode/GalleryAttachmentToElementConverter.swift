@@ -1,4 +1,4 @@
-import Aztec
+
 import Foundation
 
 class GalleryAttachmentToElementConverter: AttachmentToElementConverter {    

@@ -1,4 +1,4 @@
-import Aztec
+
 import Foundation
 
 /// Handler Gallery Shortcodes pre-processing by converting them to <gallery> nodes.

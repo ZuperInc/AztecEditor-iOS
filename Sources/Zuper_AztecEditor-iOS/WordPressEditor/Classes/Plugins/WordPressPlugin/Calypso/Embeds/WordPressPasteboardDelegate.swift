@@ -1,5 +1,5 @@
 import UIKit
-import Aztec
+
 
 class WordPressTextViewPasteboardDelegate: AztecTextViewPasteboardDelegate {
 

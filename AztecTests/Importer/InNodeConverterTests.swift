@@ -1,5 +1,5 @@
 import XCTest
-@testable import Aztec
+
 import libxml2
 
 // MARK: - InNodeConverterTests

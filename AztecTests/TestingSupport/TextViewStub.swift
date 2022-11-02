@@ -1,5 +1,5 @@
 import UIKit
-@testable import Aztec
+
 
 class TextViewStub: Aztec.TextView {
     

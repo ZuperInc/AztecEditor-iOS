@@ -46,7 +46,7 @@ Then:
 
 1. Open your project, head to **Build Settings** for your target and add `$(SDKROOT)/usr/include/libxml2/` to your **Header Search Paths**.
 2. Go to `Build Phases` > `Link Binary With Libraries` and add `Aztec.framework`.
-3. Add `import Aztec` to your project's source.
+3. Add `` to your project's source.
 
 ## Integrating the Library with CocoaPods
 
@@ -63,7 +63,7 @@ pod "WordPress-Editor-iOS", "1.0"
 After installing Aztec, import the module and use the `Aztec.TextView` view as shown below:
 
 ```swift
-import Aztec
+
 
 // ...
 

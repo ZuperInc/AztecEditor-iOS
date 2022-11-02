@@ -1,5 +1,4 @@
 import Foundation
-import Aztec
 
 /// ImageAttachment extension to support extra attributes needed by the WordPress app.
 ///

@@ -1,4 +1,4 @@
-import Aztec
+
 import Foundation
 
 /// Converts [caption] shortcode into a <figure><img><figcaption> structure.

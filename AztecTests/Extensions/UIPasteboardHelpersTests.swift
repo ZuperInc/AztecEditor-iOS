@@ -1,7 +1,7 @@
 import MobileCoreServices
 import UIKit
 import XCTest
-@testable import Aztec
+
 
 class UIPasteboardHelpersTests: XCTestCase {
     
